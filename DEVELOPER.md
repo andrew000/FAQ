@@ -134,6 +134,7 @@ Lorem ipsum dolor sit amet..."
 
 #### Бесплатный хостинг картинок
 POST HTTP запрос `http://telegra.ph/upload`
+Максимальный размера файла: 5 242 880 байт/5 МБайт
 
 Поддерживаемые типы медиафайлов:
 `image/gif, image/jpeg, image/jpg, image/png, video/mp4, video/ogg, video/mpeg`
